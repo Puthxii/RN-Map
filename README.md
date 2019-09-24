@@ -22,6 +22,11 @@
     get API Ket
 #### ![Alt text](https://www.img.in.th/images/25533709b3892e99a581033def5ca7c6.png)   
 
+### After enabling the API key, we have to add this API key to our project’s AndroidManifest.xml file. Just copy the following lines and paste it into your manifest file with your generated API key.
+
+       <meta-data
+          android:name="com.google.android.geo.API_KEY"
+          android:value="Replace this with your API key"/>
    
     
 
