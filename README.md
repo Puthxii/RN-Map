@@ -27,6 +27,10 @@
        <meta-data
           android:name="com.google.android.geo.API_KEY"
           android:value="Replace this with your API key"/>
+ 
+ #### ![Alt text](https://www.img.in.th/images/187cd981eb53a312cd502f9acfa47177.png)   
+
+       
 ### App.js
 
         /*This is an Example of React Native Map*/
