@@ -15,5 +15,14 @@
 #### ![Alt text](https://www.img.in.th/images/1ff7f66d28f988bd7499c0dcbab4cabb.png)
     pick product
 #### ![Alt text](https://www.img.in.th/images/fc45d0f298987866dd536a2999fdf481.png)
+    select project 
+#### ![Alt text](https://www.img.in.th/images/b19984053666c2ab6ca3e7a45bebf2e7.png)
+    click Credential
+#### ![Alt text](https://www.img.in.th/images/4f36f57e5ad446df90d9bf0190c6fdcb.png)
+    get API Ket
+#### ![Alt text](https://www.img.in.th/images/25533709b3892e99a581033def5ca7c6.png)   
+
+   
+    
 
 
