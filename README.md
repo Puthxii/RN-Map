@@ -95,4 +95,12 @@
     1. cd RN-Map
     2. react-native run-android
     
+### Example App
+  #### ![Alt text](https://www.img.in.th/images/881509f384aff27225e3aa86f8bbb392.png)
+  
+### Team
+    Teenapat Rattanawong
+    Pongsathon Rakthong
+    Saowarat Saowarat
+    Awatif Yusoh 
 
