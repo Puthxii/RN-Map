@@ -87,5 +87,8 @@
           },
         });
 
-
+### Run
+    1. cd RN-Map
+    2. react-native run-android
+    
 
