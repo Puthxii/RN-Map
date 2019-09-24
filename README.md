@@ -28,7 +28,7 @@
           android:name="com.google.android.geo.API_KEY"
           android:value="Replace this with your API key"/>
  
- #### ![Alt text](https://www.img.in.th/images/187cd981eb53a312cd502f9acfa47177.png)   
+ #### ![Alt text](https://www.img.in.th/images/37d72dc0c6bbef78b560f4bf2d0242cc.png)   
 
        
 ### App.js
